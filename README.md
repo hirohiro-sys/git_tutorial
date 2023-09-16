@@ -1,1 +1,1 @@
-### ~gitとgithubの練習用リポジトリ~
+### 깃허브연습repository
